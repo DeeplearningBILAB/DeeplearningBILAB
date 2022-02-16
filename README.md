@@ -1,5 +1,5 @@
 - 👋 Hi, Thsi is the official Github handle of BILAB@NTU
-- 👀 Please take a look at the associated repositories for the code, for mor informations please visit: https://sites.google.com/site/bilab2012
+- 👀 Please take a look at the associated repositories for the code, for more informations please visit: https://sites.google.com/site/bilab2012
 - 📫 You can reach us at: Bilabdeeplearning@gmail.com
 
 <!---
