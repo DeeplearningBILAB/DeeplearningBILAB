@@ -1,7 +1,10 @@
 
 ## 👋 This is the official Github handle of BILAB@NTU <h2> 
+  __
   ### 👀 Please take a look at the associated repositories for the code, for more informations please visit:  <h3> __https://sites.google.com/site/bilab2012__
+  __
   ### 📫 You can reach us at: <h3>  Bilabdeeplearning@gmail.com
+  __
   
 <!---
 DeeplearningBILAB/DeeplearningBILAB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
