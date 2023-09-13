@@ -3,7 +3,7 @@
   __
   ### 👀 Please take a look at the associated repositories for the code, for more informations please visit:  <h3> __www.bilab2012.com__
   __
-  ### 📫 You can reach us at: <h3>  bilabdeeplearning@gmail.com
+  ### 📫 You can reach us at: <h3>  bilab2012@gmail.com
   __
   
 <!---
