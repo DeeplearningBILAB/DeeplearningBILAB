@@ -1,5 +1,5 @@
 
-## 👋 This is the official Github handle of BILAB@NTU <h2> 
+## 👋 This is the official Github handle of BILAB@ISU <h2> 
   __
   ### 👀 Please take a look at the associated repositories for the code, for more informations please visit:  <h3> __www.bilab2012.com__
   __
